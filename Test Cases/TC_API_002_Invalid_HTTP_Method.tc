@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API_002_Invalid_HTTP_Method</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5320bc9a-eb44-4a43-a606-bd3ce0e60841</testCaseGuid>
+</TestCaseEntity>
